@@ -1,6 +1,6 @@
 # Audio Player Script
 
-This script retrieves the best audio URL from a given video URL and plays it using `mpv`.
+This script retrieves the best audio URL from a given video URL and plays it using `mpv` on your terminal ( that's what i did :>) ).
 
 ## Usage
 
@@ -25,3 +25,4 @@ Dependencies
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
